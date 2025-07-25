@@ -46,7 +46,7 @@ int main()
 
         if (ans == n)
         {
-            cout << mid << "vhas " << n << "vtrailing zeroes";
+            cout << mid << "has " << n << "trailing zeroes";
             break;
         }
 
